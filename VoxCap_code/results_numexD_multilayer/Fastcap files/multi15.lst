@@ -1,0 +1,76 @@
+* By Gauss law, the capacitance is 4*pi*e0*er*a*b/(b-a(1-er)) 
+* Just some writing at the beginning, now actual lines are coming!!! 
+C intcon15by3_1.txt 2.6  0.0 0.0 0.0
+C intcon15by3_2.txt 2.6  0.0 0.0 0.0
+C intcon15by3_3.txt 2.6  0.0 0.0 0.0
+C intcon15by3_4.txt 2.6  0.0 0.0 0.0
+C intcon15by3_5.txt 2.6  0.0 0.0 0.0
+C intcon15by3_6.txt 2.6  0.0 0.0 0.0
+C intcon15by3_7.txt 2.6  0.0 0.0 0.0
+C intcon15by3_8.txt 2.6  0.0 0.0 0.0
+C intcon15by3_9.txt 2.6  0.0 0.0 0.0
+C intcon15by3_10.txt 2.6  0.0 0.0 0.0
+C intcon15by3_11.txt 2.6  0.0 0.0 0.0
+C intcon15by3_12.txt 2.6  0.0 0.0 0.0
+C intcon15by3_13.txt 2.6  0.0 0.0 0.0
+C intcon15by3_14.txt 2.6  0.0 0.0 0.0
+C intcon15by3_15.txt 2.6  0.0 0.0 0.0
+C intcon15by3_16.txt 3.7  0.0 0.0 0.0
+C intcon15by3_17.txt 3.7  0.0 0.0 0.0
+C intcon15by3_18.txt 3.7  0.0 0.0 0.0
+C intcon15by3_19.txt 3.7  0.0 0.0 0.0
+C intcon15by3_20.txt 3.7  0.0 0.0 0.0
+C intcon15by3_21.txt 3.7  0.0 0.0 0.0
+C intcon15by3_22.txt 3.7  0.0 0.0 0.0
+C intcon15by3_23.txt 3.7  0.0 0.0 0.0
+C intcon15by3_24.txt 3.7  0.0 0.0 0.0
+C intcon15by3_25.txt 3.7  0.0 0.0 0.0
+C intcon15by3_26.txt 3.7  0.0 0.0 0.0
+C intcon15by3_27.txt 3.7  0.0 0.0 0.0
+C intcon15by3_28.txt 3.7  0.0 0.0 0.0
+C intcon15by3_29.txt 3.7  0.0 0.0 0.0
+C intcon15by3_30.txt 3.7  0.0 0.0 0.0
+C intcon15by3_31.txt 2.6  0.0 0.0 0.0
+C intcon15by3_32.txt 2.6  0.0 0.0 0.0
+C intcon15by3_33.txt 2.6  0.0 0.0 0.0
+C intcon15by3_34.txt 2.6  0.0 0.0 0.0
+C intcon15by3_35.txt 2.6  0.0 0.0 0.0
+C intcon15by3_36.txt 2.6  0.0 0.0 0.0
+C intcon15by3_37.txt 2.6  0.0 0.0 0.0
+C intcon15by3_38.txt 2.6  0.0 0.0 0.0
+C intcon15by3_39.txt 2.6  0.0 0.0 0.0
+C intcon15by3_40.txt 2.6  0.0 0.0 0.0
+C intcon15by3_41.txt 2.6  0.0 0.0 0.0
+C intcon15by3_42.txt 2.6  0.0 0.0 0.0
+C intcon15by3_43.txt 2.6  0.0 0.0 0.0
+C intcon15by3_44.txt 2.6  0.0 0.0 0.0
+C intcon15by3_45.txt 2.6  0.0 0.0 0.0
+
+D intcon15by3_46.txt 1.0 5.0  0.0 0.0 0.0 300 300 20 -
+D intcon15by3_47.txt 1.0 2.6  0.0 0.0 0.0 300 300 100 -
+D intcon15by3_48.txt 1.0 5.0  0.0 0.0 0.0 300 300 280 -
+D intcon15by3_49.txt 1.0 2.6  0.0 0.0 0.0 300 300 320 -
+D intcon15by3_50.txt 1.0 5.0  0.0 0.0 0.0 300 300 540 -
+D intcon15by3_51.txt 1.0 2.6  0.0 0.0 0.0 300 300 580 -
+
+D intcon15by3_52.txt 2.6 3.7  0.0 0.0 0.0 105 1085 370 -
+D intcon15by3_53.txt 2.6 3.7  0.0 0.0 0.0 245 1085 370 -
+D intcon15by3_54.txt 2.6 3.7  0.0 0.0 0.0 385 1085 370 -
+D intcon15by3_55.txt 2.6 3.7  0.0 0.0 0.0 525 1085 370 -
+D intcon15by3_56.txt 2.6 3.7  0.0 0.0 0.0 665 1085 370 -
+D intcon15by3_57.txt 2.6 3.7  0.0 0.0 0.0 805 1085 370 -
+D intcon15by3_58.txt 2.6 3.7  0.0 0.0 0.0 945 1085 370 -
+D intcon15by3_59.txt 2.6 3.7  0.0 0.0 0.0 1085 1085 370 -
+D intcon15by3_60.txt 2.6 3.7  0.0 0.0 0.0 1225 1085 370 -
+D intcon15by3_61.txt 2.6 3.7  0.0 0.0 0.0 1365 1085 370 -
+D intcon15by3_62.txt 2.6 3.7  0.0 0.0 0.0 1505 1085 370 -
+D intcon15by3_63.txt 2.6 3.7  0.0 0.0 0.0 1645 1085 370 -
+D intcon15by3_64.txt 2.6 3.7  0.0 0.0 0.0 1785 1085 370 -
+D intcon15by3_65.txt 2.6 3.7  0.0 0.0 0.0 1925 1085 370 -
+D intcon15by3_66.txt 2.6 3.7  0.0 0.0 0.0 2065 1085 370 -
+
+D intcon15by3_67.txt 2.6 5.0  0.0 0.0 0.0 300 300 20 -
+D intcon15by3_68.txt 5.0 2.6  0.0 0.0 0.0 300 300 20 -
+D intcon15by3_69.txt 2.6 5.0  0.0 0.0 0.0 300 300 20 -
+D intcon15by3_70.txt 5.0 2.6  0.0 0.0 0.0 300 300 20 -
+D intcon15by3_71.txt 2.6 5.0  0.0 0.0 0.0 300 300 20 - 

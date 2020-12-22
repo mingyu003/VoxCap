@@ -1,0 +1,4 @@
+* By Gauss law, the capacitance is 4*pi*e0*er*a*b/(b-a(1-er)) 
+* Just some writing at the beginning, now actual lines are coming!!! 
+C intcon1by1_1.txt 2.0  0.0 0.0 0.0
+D intcon1by1_2.txt 1.0 2.0  0.0 0.0 0.0 0.5 0.5 0.5 - 

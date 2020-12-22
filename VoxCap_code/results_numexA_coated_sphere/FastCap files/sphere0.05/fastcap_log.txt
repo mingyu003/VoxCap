@@ -1,0 +1,46 @@
+FastCap 2.0, (c) by M.I.T.
+FastCap2 Windows porting and modifications, version 3.6
+    (c) 1998, 2015 by Enrico Di Lorenzo, www.fastfieldsolvers.com
+
+Running fastcap 2.0 (18Sep92)
+  Input: C:\Users\mingyu003\Dropbox\paper drafts\VoxCap\VoxCap_figures\coated_sphere\Fast_file\sphere0.05\sphere0.05.lst
+  Input surfaces:
+   GROUP1
+    intcon1by1_1.txt, conductor
+      title: `Geometry file generated ... '
+      outer permittivity: 2
+      number of panels: 480
+      number of extra evaluation points: 0
+      translation: (0 0 0)
+   GROUP2
+    intcon1by1_2.txt, dielectric interface
+      title: `Geometry file generated ... '
+      permittivities: 2 (inner) 1 (outer)
+      number of panels: 1896
+      number of extra evaluation points: 3792
+      translation: (0 0 0)
+  Date: Thu May 07 09:23:10 2020
+
+INPUT SUMMARY
+  Expansion order: 4
+  Number of partitioning levels: 4
+  Overall permittivity factor: 1
+  Total number of panels: 2376
+    Number of conductor panels: 480
+    Number of dielectric interface panels: 1896
+    Number of thin conductor on dielectric interface panels: 0
+  Number of conductors: 1
+No expansions at level 4 (lowest)
+No multipole expansions at level 3
+Percentage of multiplies done by multipole: 94%
+
+ITERATION DATA
+Starting on column 1 (1%GROUP1)
+1 2 3 4 5 6 7 
+
+CAPACITANCE MATRIX, picofarads
+                     1 
+1%GROUP1 1      38.4071
+
+Total time: 0.544
+Total memory allocated: 135511 kilobytes
